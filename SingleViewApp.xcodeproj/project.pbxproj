@@ -269,7 +269,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: HCL America (4EDX29VVN3)";
 				INFOPLIST_FILE = SingleViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.HCL.SingleViewApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hcl.erslab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d38912b9-80ec-4a7b-9786-4b3ae671b51d";
 			};
@@ -283,7 +283,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: HCL America (4EDX29VVN3)";
 				INFOPLIST_FILE = SingleViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.HCL.SingleViewApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hcl.erslab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d38912b9-80ec-4a7b-9786-4b3ae671b51d";
 			};
